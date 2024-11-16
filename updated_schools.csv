@@ -1,0 +1,201 @@
+district,name,address,website,contact,district_roman,type
+District 10,Hunfalvy János Két Tanítási Nyelvű Közgazdasági és Kereskedelmi Szakgimnázium,"Budapest, Ponty u. 3, 1011",http://www.hunfalvy-szki.hu,,X,szakgimnázium
+District 10,Kosztolányi Dezső Gimnázium,"Budapest, Attila út 135, 1012",http://kosztolanyigimnazium.hu,,X,gimnázium
+District 10,Petőfi Sándor Gimnázium,"Budapest, Attila út 43, 1013",http://www.psg1892.hu,,X,gimnázium
+District 10,Budapesti Egyetemi Katolikus Gimnázium,"Budapest, Szabó Ilonka u. 2, 1015",http://egyetemi.hu/,,X,gimnázium
+District 10,Szent Gellért Katolikus Általános Iskola és Gimnázium,"Budapest, Gellérthegy u. 7, 1016",http://www.sztg.info,,X,gimnázium
+District 10,Kodály Zoltán Magyar Kórusiskola,"Budapest, Toldy Ferenc u. 28-30, 1015",http://www.kzmk.hu,,X,
+District 10,Szilágyi Erzsébet Gimnázium,"Budapest, Mészáros u. 5-7, 1016",http://www.szegbp.edu.hu,,X,gimnázium
+District 10,Toldy Ferenc Gimnázium,"Budapest, Toldy Ferenc u. 9, 1015",http://www.toldygimnazium.hu,,X,gimnázium
+District 10,Pasaréti Gimnázium,"Budapest, Lóczy Lajos u. 11, 1022",https://gimi.hu/,,X,gimnázium
+District 10,"Baár–Madas Református Gimnázium, Általános Iskola és Kollégium","Budapest, Lorántffy Zsuzsanna utca 3, 1022",http://www.bmrg.hu,,X,gimnázium
+District 10,Budenz József Általános Iskola és Gimnázium,"Budapest, Budenz út 20, 1021",http://budenz.sulinet.hu,,X,gimnázium
+District 10,Csik Ferenc Általános Iskola és Gimnázium,"Budapest, Medve u. 5-7, 1027",http://csikf-bp.sulinet.hu,,X,gimnázium
+District 10,"Gustave Eiffel Francia Óvoda, Általános Iskola és Gimnázium","Budapest, Máriaremetei út 193-199., 1029",https://www.franciaintezet.hu/hu/cikkek/oktatas/tanuloknak/budapesti-gustave-eiffel-francia-ovoda-altalanos-iskola-es-gimnazium.html,,X,gimnázium
+District 10,Szabó Lőrinc Két Tannyelvű Általános Iskola és Gimnázium,"Budapest, Fenyves u. 1-3, 1026",http://www.szabol-bp.sulinet.hu,,X,gimnázium
+District 10,Szent Angéla Ferences Általános Iskola és Gimnázium,"Budapest, Ady Endre u. 3, 1024",http://sztangela.hu,,X,gimnázium
+District 10,II. Rákóczi Ferenc Gimnázium,"Budapest, Keleti Károly u. 37, 1024",http://www.budai-rfg.sulinet.hu,,X,gimnázium
+District 10,Klebelsberg Kuno Általános Iskola és Gimnázium,"Budapest, Szabadság u. 23, 1028",http://www.klebi.hu,,X,gimnázium
+District 10,"Kodály Zoltán Ének-zenei Általános Iskola, Gimnázium és Zenei Alapfokú Művészeti Iskola","Budapest, Marczibányi tér 1, 1022",http://www.kodaly-bp.sulinet.hu,,X,gimnázium
+District 10,Móricz Zsigmond Gimnázium,"Budapest, Törökvész út 48-54, 1025",http://www.moricz-bp.sulinet.hu/,,X,gimnázium
+District 10,"Than Károly Ökoiskola Gimnázium, Szakközépiskola és Szakiskola","Budapest, Lajos u. 1-5, 1023",http://than.hu,,X,szakközépiskola
+District 10,"Szent József Katolikus Óvoda, Általános Iskola és Gimnázium","Budapest, Templom u. 5, 1038",http://www.sztjozsef.net,,X,gimnázium
+District 10,Alternatív Közgazdasági Gimnázium,"Budapest, Raktár u. 1, 1035",http://akg.hu,,X,gimnázium
+District 10,Óbudai Árpád Gimnázium,"Budapest, Nagyszombat u. 19, 1034",http://www.arpadgimnazium.hu,,X,gimnázium
+District 10,Bláthy Ottó Titusz Informatikai Szakgimnázium,"Budapest, Bécsi út 134, 1032",http://www.blathy-bp.sulinet.hu,,X,szakgimnázium
+District 10,Óbudai Gimnázium,"Budapest, Szentlélek tér 10, 1033",http://www.obudaigimnazium.hu,,X,gimnázium
+District 10,Veres Péter Gimnázium,"Budapest, Csobánka tér 7, 1039",http://verespg.hu,,X,gimnázium
+District 10,Kerék Általános Iskola és Gimnázium,"Budapest, Kerék u. 18-20, 1035",http://www.kerek-u.sulinet.hu,,X,gimnázium
+District 10,Kőrösi Csoma Sándor Két Tanítási Nyelvű Baptista Gimnázium,"Budapest, Szentendrei út 83, 1033",http://www.korosi.hu,,X,gimnázium
+District 10,Pázmány Péter Gimnázium,"Budapest, Gladiátor utca 19, 1031",,,X,gimnázium
+District 10,"BGSZC Varga István Kereskedelmi, Közgazdasági Szakgimnáziuma és Szakközépiskolája","Budapest, Hatvany Lajos u. 7, 1039",http://www.viszki.hu/index.php/hu/,,X,szakgimnázium
+District 10,Újpesti Könyves Kálmán Gimnázium,"Budapest, Tanoda tér 1, 1043",http://kkg.hu,,X,gimnázium
+District 10,Újpesti Két Tanítási Nyelvű Műszaki Szakközépiskola és Gimnázium,"Budapest, Görgey Artúr u. 26, 1041",http://www.umszki.hu,,X,szakközépiskola
+District 10,Babits Mihály Gimnázium,"Budapest, Tóth Aladár u. 16-18, 1048",http://babits.hu,,X,gimnázium
+District 10,Újpesti Bródy Imre Gimnázium,"Budapest, Langlet Waldemár u. 3, 1047",http://www.brody-bp.sulinet.hu,,X,gimnázium
+Unknown District,Régi Újpesti Bródy Imre Gimnázium,"Budapest, Attila utca 10.",,Az épület üresen áll.,,gimnázium
+Unknown District,Bay Zoltán Szakközépiskola,"Budapest, Lőrincz utca 40.",,Az épület üresen áll.,,szakközépiskola
+District 10,Károlyi István 12 Évfolyamos Gimnázium,"Budapest, Erzsébet u., 1042",http://kig.hu,,X,gimnázium
+District 10,Berzeviczy Gergely Két Tanítási Nyelvű Közgazdasági Szakgimnázium,"Budapest, Baross u. 72, 1047",http://berzeviczy.hu,,X,szakgimnázium
+District 10,Kanizsay Dorottya Egészségügyi Szakképző Iskola és Gimnázium,"Budapest, Kassai u. 24/a, 1043",http://www.kanizsay.sulinet.hu,,X,gimnázium
+District 10,Újpesti Csokonai Vitéz Mihály Általános Iskola és Gimnázium,"Budapest, Bőrfestő u. 5-9, 1048",http://www.csvmg.hu,,X,gimnázium
+District 10,Budapesti Komplex SZC Kozma Lajos Faipari és Kreatív Technikum,"Budapest, Deák Ferenc u. 40, 1041",http://www.kozmafa.hu,,X,technikum
+District 10,Xántus János Idegenforgalmi Gyakorló Középiskola,"Budapest, Markó u. 18-20, 1055",http://www.xantuski.hu,,X,
+District 10,"Budapesti Ward Mária Általános Iskola, Gimnázium és Zeneművészeti Szakgimnázium","Budapest, Irányi u. 3, 1056",http://wardmaria.hu,,X,szakgimnázium
+District 10,Deák Téri Evangélikus Gimnázium,"Budapest, Sütő u. 1, 1052",http://deakteri.hu,,X,gimnázium
+District 10,ELTE Apáczai Csere János Gyakorló Gimnázium és Kollégium,"Budapest, Papnövelde u. 4, 1053",http://www.apaczai.elte.hu,,X,gimnázium
+District 10,Eötvös József Gimnázium,"Budapest, Reáltanoda utca 7, 1053",http://www.ejg.hu,,X,gimnázium
+District 10,Piarista Gimnázium,"Budapest, Piarista u. 1, 1052",http://budapest.piarista.hu,,X,gimnázium
+District 10,Veres Pálné Gimnázium,"Budapest, Veres Pálné u. 38, 1053",http://vpg.hu,,X,gimnázium
+District 10,Bartók Béla Zeneművészeti és Hangszerészképző Gyakorló Szakgimnázium,"Budapest, Nagymező u. 1, 1065",http://konzi.hu,,X,szakgimnázium
+District 10,Semmelweis Egyetem Raoul Wallenberg Többcélú Szakképző Intézménye,"Budapest, Rippl Rónai utca 22-26, 1068",https://semmelweis.hu/raoulwallenberg/,,X,
+District 10,Hriszto Botev Bolgár–Magyar Általános Iskola és Gimnázium,"Budapest, Bajza u. 44, 1062",http://www.bolgarok.hu/index.php?id=90,,X,gimnázium
+District 10,Kölcsey Ferenc Gimnázium,"Budapest, Munkácsy Mihály u. 26, 1063",http://www.kolcsey-bp.hu,,X,gimnázium
+District 10,Szinyei Merse Pál Gimnázium,"Budapest, Szinyei Merse u. 7, 1063",http://www.szinyeigimibp.hu,,X,gimnázium
+District 10,Pesti Barnabás Élelmiszeripari Szakgimnázium és Szakközépiskola,"Budapest, Andrássy út 63-65, 1062",https://www.pestibarnabas.hu/,Itt működött korábban aMária Terézia Leánygimnázium / Varga Katalin Gimnáziumis.,X,szakközépiskola
+District 10,Terézvárosi Kereskedelmi Szakközépiskola és Szakiskola,"Budapest, Szondi u. 41, 1064",http://www.kersuli.hu/hu,,X,szakközépiskola
+District 10,"Wesselényi Utcai Bölcsőde, Óvoda, Általános Iskola és Gimnázium","Budapest, Wesselényi u. 44., 1075",,,X,gimnázium
+District 10,Budapest-Fasori Evangélikus Gimnázium,"Budapest, Városligeti fasor 17–21., 1071",http://www.fasori.hu/,,X,gimnázium
+District 10,Alsóerdősori Bárdos Lajos Általános Iskola és Gimnázium,"Budapest, Alsó erdősor u. 14-16, 1074",http://alsoerdosor.hu/,,X,gimnázium
+District 10,Facultas Humán Gimnázium,"Budapest, Hernád u. 46, 1078",http://www.facultas.hu,,X,gimnázium
+Unknown District,Hajnik Károly Közgazdasági Szakközépiskola,"Budapest, Murányi utca 10.",,Az iskola 2007-ben megszűnt.,,szakközépiskola
+District 10,Madách Imre Gimnázium,"Budapest, Barcsay u. 5, 1073",http://mig.hu,,X,gimnázium
+District 10,"Nikola Tesla Szerb Tanítási Nyelvű Óvoda, Általános Iskola, Gimnázium és Kollégium","Budapest, Rózsák tere 6-7, 1074",http://www.nikola-tesla.hu,,X,gimnázium
+District 11,OktOpus Multimedia Szakközépiskola,"Budapest, Frangepán u. 50, 1139",http://oktopus.hu/,,XI,szakközépiskola
+District 10,Arany János Műszaki Szakgimnázium,"Budapest, Nyár u. 9, 1072",http://www.aranymszki.hu,,X,szakgimnázium
+District 10,Baross Imre Artistaképző Szakközépiskola és Szakiskola,"Budapest, Városligeti fasor 3, 1071",http://www.biak.hu/,,X,szakközépiskola
+District 10,Erzsébetvárosi Magyar-Angol Két Tanítási Nyelvű Általános Iskola és Szakgimnázium,1073 Budapest Kertész utca 30és 1077 Budapest Dob utca 85.,http://www.erzsebetvarosiiskola.hu/,"Három iskolából alakult: Dohány utcai Gyakorló Általános Iskola, Kertész utcai Művészeti Általános Iskola, Magyar-Angol Kéttannyelvű Általános Iskola és Vendéglátó Szakiskola.",X,szakgimnázium
+District 10,II. Rákóczi Ferenc Közgazdasági Szakgimnázium,"Budapest, Wesselényi u. 38, 1075",http://rakoczif.hu,,X,szakgimnázium
+District 10,"Vendéglátó, Idegenforgalmi és Kereskedelmi Középiskola","Budapest, Hernád u. 3, 1078",http://www.vikiskola.hu,,X,
+District 10,Szent Benedek Gimnázium és Technikum,"Budapest, Práter u. 11, 1083",https://szbi.hu/budapest/,,X,technikum
+District 10,BGSZC Széchenyi István Kereskedelmi Szakgimnáziuma,"Budapest, Vas u. 9-11, 1088",http://www.vasutca.hu,,X,szakgimnázium
+District 10,Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Budapest, Horváth Mihály tér 8, 1082",http://matek.fazekas.hu,,X,gimnázium
+District 10,ELTE Trefort Ágoston Gyakorlóiskola,"Budapest, Trefort u. 8, 1088",http://www.trefort.elte.hu,,X,
+District 10,Vörösmarty Mihály Gimnázium,"Budapest, Horánszky u. 11, 1085",http://www.vmgsuli.hu,,X,gimnázium
+District 10,Lakatos Menyhért Általános Iskola és Gimnázium,"Budapest, Bauer Sándor u. 6-8, 1086",http://lakatosmenyhert-iskola.hu,,X,gimnázium
+District 10,Budapesti Komplex SZC Kézművesipari Szakgimnáziuma,"Budapest, Práter u. 31, 1083",https://bkszc.hu/intezmenyeink/618ba01b434f69007683befa,,X,szakgimnázium
+District 10,Bókay János Szakgimnázium,"Budapest, Csobánc u. 1, 1086",http://www.bokaysuli.hu/,,X,szakgimnázium
+District 10,Jelky András Iparművészeti Szakgimnázium,"Budapest, Rákóczi tér 4, 1084",http://jelky.hu/,,X,szakgimnázium
+District 10,Szent Anna Görögkatolikus Gimnázium és Technikum,"Budapest, Bezerédj utca 16/a, 1081",https://www.leovey-szki.hu/,Nem azonos a IX. kerületi Leövey Klára Gimnáziummal.,X,technikum
+District 10,Schulek Frigyes Kéttannyelvű Építőipari Szakgimnázium,"Budapest, Mosonyi u. 6, 1087",http://schulek.bkszc.hu/,,X,szakgimnázium
+District 10,Szász Ferenc Kereskedelmi Szakgimnázium,"Budapest, Szörény u. 2-4, 1087",http://www.szasziskola.hu/,,X,szakgimnázium
+District 10,Lónyay Utcai Református Gimnázium és Kollégium,"Budapest, Kinizsi u. 1-7, 1092",http://www.lonyayrefi.hu/,,X,gimnázium
+District 10,Fáy András Gimnázium,"Budapest, Mester u. 60-62, 1095",http://www.fay-bp.sulinet.hu/,,X,gimnázium
+District 10,Képző- és Iparművészeti Szakgimnázium és Kollégium,"Budapest, Török Pál u. 1, 1093",http://kiskepzo.hu/index.html,,X,szakgimnázium
+District 10,Közgazdasági Politechnikum Alternatív Gimnázium,"Budapest, Vendel u. 3, 1096",https://poli.hu/wp/,,X,technikum
+District 10,Leövey Klára Gimnázium,"Budapest, Vendel u. 1, 1096",http://www.leovey.hu/,"Nem azonos a VIII. kerületi Leövey Klára Görögkatolikus Gimnázium, Közgazdasági Szakgimnázium és Szakközépiskolával.",X,gimnázium
+District 10,Puskás Tivadar Távközlési Technikum,"Budapest, Gyáli út 22, 1097",http://www.puskas.hu/100/,,X,technikum
+District 10,Szent István Közgazdasági Szakgimnázium és Kollégium,"Budapest, Mester u. 56-58, 1095",http://szistvan.hu/,,X,szakgimnázium
+District 10,Szent-Györgyi Albert Általános Iskola és Gimnázium,"Budapest, Lónyay u. 4/c-8, 1093",https://szgya.hu/,,X,gimnázium
+District 10,Szent György Média és Informatikai Szakgimnázium,"Budapest, Lenhossék u. 24-28, 1096",http://szgyf.hu/,,X,szakgimnázium
+District 10,Teleki Blanka Közgazdasági Szakközépiskola,"Budapest, Mester u. 23, 1095",https://telekiblankabp.hu/,,X,szakközépiskola
+District 10,Ferencvárosi Sport Általános Iskola és Gimnázium,"Budapest, Telepy u. 17, 1096",http://fsi.sulinet.hu/,,X,gimnázium
+District 10,Weöres Sándor Általános Iskola és Gimnázium,"Budapest, Lobogó u. 1, 1098",http://80.77.123.167/wsag/,,X,gimnázium
+District 10,"Patrona Hungariae Általános Iskola, Gimnázium, Kollégium és Alapfokú Művészeti Iskola","Budapest, Knézich u. 3-13, 1092",http://www.patrona.hu/,,X,gimnázium
+District 10,Gundel Károly Vendéglátóipari és Idegenforgalmi Szakképző Iskola,"Budapest, Ecseri út 7, 1097",https://gundeliskola.hu/,,X,
+District 10,Harsányi János Szakgimnázium,"Budapest, Ifjúmunkás u. 31, 1091",http://www.harsanyi-bp.hu/,,X,szakgimnázium
+District 10,Jaschik Álmos Művészeti Szakgimnázium,"Budapest, Illatos út 2, 1097",https://jaschikmuveszeti.hu/,,X,szakgimnázium
+District 10,Szily Kálmán Műszaki Szakgimnázium,"Budapest, Timót u. 3, 1097",https://www.szily.hu/,,X,szakgimnázium
+District 11,Zrínyi Miklós Gimnázium,"Budapest, Mádi u. 173, 1108",http://www.zmg.hu,,XI,gimnázium
+District 11,"Giorgio Perlasca Kereskedelmi, Vendéglátóipari Szakközépiskola és Szakiskola","Budapest, Maglódi út 8, 1106",http://www.perlasca.sulinet.hu,,XI,szakközépiskola
+District 11,Keleti István Alapfokú Művészeti Iskola és Művészeti Szakgimnázium,"Budapest, Fehér út 10, 1106",http://www.kimi.hu/,,XI,szakgimnázium
+District 11,Magyar Gyula Kertészeti Szakközépiskola és Szakiskola,"Budapest, Maglódi út 8, 1106",http://www.magyula.hu,,XI,szakközépiskola
+District 11,Szent László Gimnázium,"Budapest, Kőrösi Csoma Sándor út 28-34, 1102",http://www.szlgbp.sulinet.hu,,XI,gimnázium
+District 11,Bercsényi Miklós Élelmiszeripari Szakképző Iskola,"Budapest, Maglódi út 4/b, 1106",http://www.bercsenyisuli.hu,,XI,
+District 11,Keleti Károly Közgazdasági Szakgimnázium,"Budapest, Gyakorló u. 21-23, 1106",http://www.keletiszki.hu,,XI,szakgimnázium
+District 11,Pataky István Fővárosi Gyakorló Híradásipari és Informatikai Szakgimnázium,"Budapest, Salgótarjáni u. 53/b, 1101",https://www.pataky.hu,,XI,szakgimnázium
+District 11,Budai Ciszterci Szent Imre Gimnázium,"Budapest, Villányi út 27, 1114",http://szig.hu/,,XI,gimnázium
+District 11,József Attila Gimnázium,"Budapest, Váli u. 1, 1117",https://jagbp.hu/,,XI,gimnázium
+District 11,Szent Margit Gimnázium,"Budapest, Villányi út 5-7, 1114",https://www.szmg.hu/,,XI,gimnázium
+District 11,BME Két Tanítási Nyelvű Gimnázium,"Budapest, Egry József u. 3-11, 1111",https://www.bmegimnazium.hu/,,XI,gimnázium
+District 11,Újbudai Széchenyi István Gimnázium,"Budapest, Egry József u. 3, 1111",http://www.szechenyigimnazium.hu/,,XI,gimnázium
+District 11,Mechatronikai Szakgimnázium,"Budapest, Rétköz u. 39, 1118",http://www.mechatronika.hu/,,XI,szakgimnázium
+District 11,Nemes Nagy Ágnes Művészeti Szakgimnázium,"Budapest, Thallóczy Lajos u. 1, 1115",http://nemesgimi.hu/,,XI,szakgimnázium
+District 11,BGSZC Öveges József Technikum és Szakképző Iskola,"Budapest, Fehérvári út 10, 1117",http://www.oveges.hu/,,XI,technikum
+District 11,Számalk-Szalézi Szakgimnázium,"Budapest, Mérnök u. 39, 1119",https://www.szamalk-szalezi.hu/,,XI,szakgimnázium
+District 11,Kürt Alapítványi Gimnázium,"Budapest, Bogdánfy Ödön utca 5/b, 1117",https://kag.info.hu,,XI,gimnázium
+District 11,"Szent II. János Pál Óvoda, Általános Iskola és Gimnázium","Budapest, Mezőkövesd út 10, 1116",https://www.janospal.hu/,,XI,gimnázium
+District 11,Bethlen Gábor Általános Iskola és Gimnázium,"Budapest, Bartók Béla út 141, 1115",https://www.bethlen.hu/,,XI,gimnázium
+District 11,Budai Rajziskola,"Budapest, Alkotás u. 45, 1123",https://www.budairajziskola.hu,,XI,
+District 11,Orbánhegy Kollégium,"Budapest, Orbánhegyi út 30, 1126",https://orbanhegykollegium.hu/wp/,,XI,
+District 11,Városmajori Gimnázium,"Budapest, Városmajor u. 71, 1122",https://www.vmg.sulinet.hu,,XI,gimnázium
+District 11,Sashegyi Arany János Általános Iskola és Gimnázium,"Budapest, Meredek u. 1, 1124",http://aranyj.hu/,,XI,gimnázium
+District 11,"Tamási Áron Általános Iskola, Gimnázium és Német Nemzetiségi Gimnázium","Budapest, Mártonhegyi út 34, 1124",http://www.tamasi.sulinet.hu/,,XI,gimnázium
+District 11,Osztrák-Magyar Európaiskola,"Budapest, Istenhegyi út 32, 1126",https://europaschule.hu/hu,,XI,
+District 11,BGSzC Budai Középiskolája,"Budapest, Márvány u. 32, 1126",https://budaikozepiskola.hu/,,XI,
+District 11,Lauder Javne Zsidó Közösségi Iskola,"Budapest, Budakeszi út 48, 1121",https://www.lauder.hu/,,XI,
+District 11,Orchidea Magyar–Angol Két Tanítási Nyelvű Gimnázium,"Budapest, Szent László út 59, 1135",https://www.ohebs.hu/,,XI,gimnázium
+District 11,Európa Alapítvány Gimnázium - EAKI,"Budapest, Balzac u. 7, 1136",https://2020.eaki.hu/,,XI,gimnázium
+District 11,"Budapesti Kolping Katolikus Általános Iskola, Gimnázium és Sportgimnázium","Budapest, Huba u. 6, 1134",http://www.kolping-huba.sulinet.hu/,,XI,gimnázium
+District 11,Németh László Gimnázium és Általános Iskola,"Budapest, Nővér u. 15-17, 1131",http://www.nlg.sulinet.hu,,XI,gimnázium
+District 11,Ady Endre Gimnázium,"Budapest, Röppentyű u. 62, 1139",http://www.adygimnazium.eu,,XI,gimnázium
+District 11,Berzsenyi Dániel Gimnázium,"Budapest, Kárpát u. 49-53, 1133",http://www.berzsenyi.hu,,XI,gimnázium
+District 11,Katona József Szakközépiskola,"Budapest, Váci út 107, 1138",http://katonaj-mkszig.hu,,XI,szakközépiskola
+District 11,Magyar Hajózási Szakgimnázium és Szakközépiskola,"Budapest, Jász u. 153-155, 1131",http://www.hajozasi.fw.hu,,XI,szakközépiskola
+District 11,Dobos C. József Vendéglátóipari Szakképző Iskola,"Budapest, Huba u. 7, 1134",http://www.dobosvszi.hu,,XI,
+District 11,Károlyi Mihály Kéttannyelvű Közgazdasági Szakgimnázium,"Budapest, Váci út 89, 1139",http://www.karolyi-kozgazd.hu,,XI,szakgimnázium
+District 11,Bolyai János Műszaki Technikum,"Budapest, Váci út 21, 1134",https://bolyai-bp.edu.hu,,XI,technikum
+District 11,Budapesti Komplex SZC Modell Divatiskolája,"Budapest, Vág u. 12, 1133",http://www.modelldivatiskola.hu/,,XI,
+District 11,Verebély László Szakgimnázium,"Budapest, Üteg u. 15, 1139",http://www.verebelyszki.hu/,,XI,szakgimnázium
+District 11,Bánki Donát Közlekedésgépészeti Szakgimnázium,"Budapest, Váci út 179-183, 1138",http://bankidonat.net/,,XI,szakgimnázium
+District 11,"BMSZC Petrik Lajos Két Tanítási Nyelvű Vegyipari, Környezetvédelmi és Informatikai Szakgimnáziuma","Budapest, Thököly út 48-54, 1146",http://petrik.hu,,XI,szakgimnázium
+District 11,"Csanádi Árpád Sportiskola, Általános Iskola és Gimnázium","Budapest, Őrnagy u. 5, 1143",http://www.csanadiiskola.hu/,,XI,gimnázium
+District 11,ELTE Radnóti Miklós Gyakorlóiskola,"Budapest, Cházár András u. 10, 1146",http://radnoti.hu,,XI,
+District 11,Budapesti Komplex Szakképzési Centrum Kaesz Gyula Faipari Technikum és Szakképző Iskola,"Budapest, Egressy út 36, 1149",http://kaesz.hu,,XI,technikum
+District 11,Szent István Gimnázium,"Budapest, Ajtósi Dürer sor 15, 1146",http://szigbp.hu,,XI,gimnázium
+District 11,Budapest Táncművészeti Stúdió Szakgimnázium,"Budapest, Miskolci u. 141, 1147",http://www.tanciskola.eu,,XI,szakgimnázium
+District 11,Egressy Gábor Szakgimnázium,"Budapest, Egressy út 71, 1149",http://www.egressy.info,,XI,szakgimnázium
+District 11,Európa 2000 Gimnázium,"Budapest, Gizella út 42-44, 1143",http://europa2000.hu,,XI,gimnázium
+District 11,"Mozgásjavító Általános Iskola, Szakközépiskola, Egységes Gyógypedagógiai Módszertani Intézmény és Diákotthon","Budapest, Mexikói út 60, 1145",http://www.mozgasjavito.hu,,XI,szakközépiskola
+District 11,Neumann János Számítástechnikai Szakgimnázium,"Budapest, Kerepesi út 124, 1144",http://www.njszki.hu,,XI,szakgimnázium
+District 11,Wesselényi Miklós Műszaki Szakgimnázium,"Budapest, Várna u. 23, 1149",http://www.wmszki.hu,,XI,szakgimnázium
+District 11,Ybl Miklós Építőipari Szakképző Iskola,"Budapest, Várna u. 21/b, 1149",http://www.yblszakkepzo.hu,,XI,
+District 11,Teleki Blanka Gimnázium,"Budapest, Ajtósi Dürer sor 37, 1146",http://www.tbg.hu,,XI,gimnázium
+District 11,Álmos Vezér Gimnázium és Általános Iskola,"Budapest, Álmos vezér tere 9, 1144",http://www.almosvezer.hu,,XI,gimnázium
+District 11,"Horvát Óvoda, Általános Iskola, Gimnázium és Kollégium","Budapest, Kántorné stny. 1, 1144",http://www.hosig.hu,,XI,gimnázium
+District 11,Sylvester János Református Gimnázium,"Budapest, Pillangó park 3, 1149",http://sylvester.hu,,XI,gimnázium
+District 11,Bethlen Gábor Technikum,"Budapest, Árendás köz 8, 1157",http://bethlenszki.hu/,,XI,technikum
+District 11,Kontyfa Általános Iskola és Gimnázium,"Budapest, Kontyfa u. 5, 1156",http://kontyfa.hu/,,XI,gimnázium
+District 11,"Innovációs Szakképző, Továbbképző Középiskola","Budapest, Bocskai u. 70, 1153",http://iszti.hu/,,XI,
+District 11,Szépmíves Szakgimnázium,"Budapest, Bocskai utca 70-72. 1153",http://kozmetikusoktatas.hu,,XI,szakgimnázium
+District 11,László Gyula Gimnázium és Általános Iskola,"Budapest, Kavicsos köz 4, 1157",http://www.laszlogyulagimnazium.hu/,,XI,gimnázium
+District 11,Dózsa György Gimnázium és Táncművészeti Szakközépiskola,"Budapest, Fő út 70, 1151",http://dgyg.hu/uj/,,XI,szakközépiskola
+District 11,Csonka János Műszaki Szakgimnázium,"Budapest Arany János u. 55., 1165",http://csonkabp.sulinet.hu/,,XI,szakgimnázium
+District 11,Bornemisza Péter Gimnázium,"Budapest, Száva u. 1, 1107",http://www.bpg.hu/,,XI,gimnázium
+District 11,Szerb Antal Gimnázium,"Budapest, Batthyány Ilona u. 12, 1164",http://www.szag.hu/weboldal/,,XI,gimnázium
+District 11,Corvin Mátyás Gimnázium,"Budapest, Mátyás király tér 4, 1165",http://www.corvinsuli.hu/site/,,XI,gimnázium
+District 11,Táncsics Mihály Gimnázium,"Budapest, Táncsics 7, 1165",http://tancsics16.hu/,,XI,gimnázium
+District 11,Békésy György Szakgimnázium,"Budapest, Széchenyi u. 11, 1174",http://bekesy-iskola.hu/,,XI,szakgimnázium
+District 11,Pál Apostol Katolikus Általános Iskola és Gimnázium,"Budapest, Pesti út 84, 1173",http://www.palapostol.hu/,,XI,gimnázium
+District 11,Balassi Bálint Nyolcévfolyamos Gimnázium,"Budapest, Széchenyi u. 1-7, 1174",http://www.balassi-bp.hu/,,XI,gimnázium
+District 11,Kőrösi Csoma Sándor Általános Iskola és Gimnázium,"Budapest, Akácvirág u. 49, 1173",http://www.kcss.hu/,,XI,gimnázium
+District 11,Hunyadi Mátyás Gimnázium,"Budapest, Kossuth tér 2., 1183",,2011-ben megszűnt.,XI,gimnázium
+District 11,Pestszentlőrinc-Pestszentimrei Felnőttek Általános Iskolája és Gimnáziuma,"Budapest Kondor Béla sétány 10., 1181",http://felgimi.hu/dp-tavoktato/?kezdolap,,XI,gimnázium
+District 11,Karinthy Frigyes Gimnázium,"Budapest, Thököly út 7, 1183",http://www.karinthy.hu/pages/,,XI,gimnázium
+District 11,Sztehlo Gábor Evangélikus Gimnázium,"Budapest, Kossuth Lajos tér 2, 1183",https://www.sztehloiskola.hu/,,XI,gimnázium
+District 11,Vörösmarty Mihály Gimnázium Ének-zenei Nyelvi Általános Iskola és Gimnázium,"Budapest, Havanna u. 64, 1181",http://www.vmzene.hu/,,XI,gimnázium
+District 11,Pestszentlőrinci Közgazdasági és Informatikai Szakgimnázium,"Budapest, Hengersor u. 34, 1184",http://www.hengersor.hu/index,,XI,szakgimnázium
+District 11,Pogány Frigyes Szakgimnázium,"Budapest, Thököly út 11, 1183",http://www.poganysuli.hu/,,XI,szakgimnázium
+District 11,Károlyi Mihály Magyar–Spanyol Tannyelvű Gimnázium,"Budapest, Simonyi Zsigmond u. 33, 1191",https://www.karolyigimnazium.com/,,XI,gimnázium
+District 11,Trefort Ágoston Két Tanítási Nyelvű Szakgimnázium,"Budapest, Kossuth tér 12, 1191",https://www.trefort.eu/index.php?oldal=fooldal,,XI,szakgimnázium
+District 11,Kispesti Deák Ferenc Gimnázium,"Budapest, Gutenberg krt. 6, 1192",https://kdfg.hu,,XI,gimnázium
+District 11,Ganz Ábrahám Kéttannyelvű Szakgimnázium,"Budapest, Üllői út 303, 1195",https://www.ganziskola.hu/,,XI,szakgimnázium
+District 11,Semmelweis Ignác Szakgimnázium,"Budapest, Csengő u. 1, 1194",https://semmelweis.hu/semmelweisiskola/,,XI,szakgimnázium
+District 12,Kossuth Lajos Gimnázium,"Budapest, Ady Endre u. 142, 1204",https://www.klgbp.hu/,,XII,gimnázium
+District 12,Nagy László Általános Iskola és Gimnázium,"Budapest, János u. 4, 1203",https://www.nagylaszlogimnazium.net/,,XII,gimnázium
+District 12,Német Nemzetiségi Gimnázium,"Budapest, Serény u. 1, 1203",http://dng-bp.hu/,,XII,gimnázium
+District 12,BGSZC Eötvös Loránd Szakgimnáziuma és Szakközépiskolája,"Budapest, Török Flóris u. 89, 1204",http://eotvosszki.hu/,,XII,szakgimnázium
+District 12,Erzsébet Királyné Szépészeti Szakgimnázium,"Budapest, Kossuth Lajos utca 35, 1203",http://www.ipari12-bp.sulinet.hu/,,XII,szakgimnázium
+District 12,Nagy-Szivárvány Alapítvány Szakképző Iskolája,"Budapest, Pöltenberg u. 8b, 1204",http://www.szivarvanyszakkepzo.hu/,,XII,
+District 12,Pesterzsébeti Közgazdasági Szakgimnázium,"Budapest, Vörösmarty u. 30, 1201",http://www.vargaj-bp.sulinet.hu/news.php,,XII,szakgimnázium
+District 12,Jedlik Ányos Gimnázium,"Budapest, Táncsics Mihály u. 92, 1212",https://www.jedlik.hu/,,XII,gimnázium
+District 12,Egressy Béni Református Művészeti Középiskola,"Budapest, II. Rákóczi Ferenc utca 121, 1211",,,XII,
+District 12,Szamos Mátyás Szakgimnázium,"Budapest, Petőfi tér 1, 1212",http://csepven.hu/,,XII,szakgimnázium
+District 12,Fodor József Szakképző Iskola,"Budapest, Tejút u. 10-12, 1214",http://www.fodorj-szeged.sulinet.hu/,,XII,
+District 12,Kossuth Lajos Kéttannyelvű Műszaki Szakgimnázium,"Budapest, Kossuth Lajos u. 12, 1211",https://www.kossuth-csepel.hu/index.php?page=main,,XII,szakgimnázium
+District 12,Vásárhelyi Pál Kereskedelmi Szakgimnázium,"Budapest, Széchenyi István u. 95, 1212",https://www.vasarhelyi.info/,,XII,szakgimnázium
+District 12,Csete Balázs Közgazdasági Szakgimnázium,"Budapest, Csete Balázs u. 6-8, 1215",http://www.csete.sulinet.hu/category/nyitooldal/,,XII,szakgimnázium
+District 12,Kempelen Farkas Gimnázium,"Budapest, Közgazdász u. 9-11, 1223",http://www.kfg.hu/,,XII,gimnázium
+District 12,Budai Nagy Antal Gimnázium,"Budapest, Anna utca 13-15., 1221",http://www.bna.sulinet.hu/,,XII,gimnázium
+District 12,Soós István Borászati és Élelmiszeripari Szakgimnázium és Szakközépiskola,"Budapest, Kossuth Lajos u. 83., 1221",http://borasziskola.hu/,,XII,szakközépiskola
+District 12,Qualitas Gimnázium,"Budapest, Tartsay u. 28, 1237",https://qualitasgimnazium.wordpress.com/,,XII,gimnázium
